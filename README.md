@@ -69,7 +69,7 @@ The confusion matrix for synthetic data test set on trained mode is shown below:
 </p>
 
 5-class classification accuracy:
-| Class No. | Accuracy |
+| VGE Grade | Accuracy |
 | --- | --- |
 | Grade 0 | 80% |
 | Grade 1 | 60% |
