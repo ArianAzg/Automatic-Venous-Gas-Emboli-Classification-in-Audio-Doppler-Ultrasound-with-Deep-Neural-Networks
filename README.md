@@ -16,7 +16,7 @@ The synthetic phase of the developed model including synthetic data generation a
 The architecture of the designed model is shown below:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48659018/146574698-3e53aad8-1193-4115-a111-f68fb82b7ecd.png" width="600" align="center">
+<img src="https://user-images.githubusercontent.com/48659018/146574698-3e53aad8-1193-4115-a111-f68fb82b7ecd.png" width="500" align="center">
 </p>
 
 Requirements
