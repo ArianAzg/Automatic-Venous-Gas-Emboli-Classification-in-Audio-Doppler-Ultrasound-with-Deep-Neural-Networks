@@ -22,7 +22,7 @@ The architecture of the designed model is shown below:
 Requirements
 ------------
 
-The code is written in Python 3.9 and uses Keras and TensorFlow. All the required packages can be installed using the following command:
+The Python code is written in Python 3.9 and uses Keras and TensorFlow. The developed MATLAB codes are based on R2021b version. All the required Python packages can be installed using the following command:
     
     $ pip install -r requirements.txt
 
