@@ -85,6 +85,30 @@ Binary classification accuracy (low VGE grade (0 - 2) vs. high VGE grade (3 and 
 
 - **Real data results**
 
+The confusion matrix for precordial region and subclavian veins are shown below (left: precordial, right: subclavian): 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/48659018/146592437-fe5db22f-8c8a-4d77-b4d7-90290eee48ff.png" width="400" align="center">
+<img src="https://user-images.githubusercontent.com/48659018/146592476-a4223461-806a-425b-b5b7-3e9c44c1893f.png" width="400" align="center">
+</p>
+
+5-class classification accuracy:
+| Class No. | Accuracy |
+| --- | --- |
+| Grade 0 | 95.5% |
+| Grade 1 | 66.7% |
+| Grade 2 | 94.1% |
+| Grade 3 | 90.2% |
+| Grade 4 | 50% |
+| Average | 79.3% |
+
+Binary classification accuracy (low VGE grade (0 - 2) vs. high VGE grade (3 and 4): 
+| VGE Level | Accuracy |
+| --- | --- |
+| Low grade  | 92.7% |
+| High grade | 83.3% |
+| Average | 88% |
+
 
 License and Citation
 ---------
