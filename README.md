@@ -13,6 +13,11 @@ The synthetic phase of the developed model including synthetic data generation a
 <img src="https://user-images.githubusercontent.com/48659018/146570909-c05c1aaf-6cb1-4a66-98b8-9894f5ba0200.jpg" width="800" align="center">
 </p>
 
+The architecture of the designed model is shown below:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/48659018/146574698-3e53aad8-1193-4115-a111-f68fb82b7ecd.png" width="600" align="center">
+</p>
 
 Requirements
 ------------
@@ -24,6 +29,7 @@ The code is written in Python 3.9 and uses Keras and TensorFlow. All the require
 How to run
 ----------
 
+The synthetic data after collection is prepared and organized in MATLAB. First, the model is trained on synthetic data. Before running the code, you are required to organize the dataset into training, validation, and test sets. This step can be done by the MATLAB code called 
 
 
 
@@ -36,6 +42,6 @@ The codes are licensed under GPL-2.0 license.
 
 For any utilization of the code content of this repository, the following paper needs to be cited by the user: 
 
-> D. Q. Le*, A. Azarang*, A. Hoang, L. Blogg, P. A. Dayton, R. Lance, M. Natoli, A. Gatrell, R. E. Moon, P. Lindholm, and V. Papadopoulou, "Deep Learning-Based Venous Gas Emboli Grade Classification in Doppler Ultrasound Audio Recordings", Under Review in _IEEE Transactions on Biomdeical Engineering_.
+> D.Q. Le*, A. Azarang*, A. Hoang, L. Blogg, P.A. Dayton, R. Lance, M. Natoli, A. Gatrell, R.E. Moon, P. Lindholm, and V. Papadopoulou, "Deep Learning-Based Venous Gas Emboli Grade Classification in Doppler Ultrasound Audio Recordings", Under Review in _IEEE Transactions on Biomdeical Engineering_.
 
 ***Authors Contributed Equally**
