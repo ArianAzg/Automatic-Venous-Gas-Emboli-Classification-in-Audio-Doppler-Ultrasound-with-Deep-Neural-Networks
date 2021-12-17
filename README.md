@@ -57,7 +57,7 @@ Similar to synthetic data organization, the orgnazied real data must be split in
 The Python code called _**AudioDopplerAutomaticVenousGasEmboliClassification.ipynb**_ is written in Jupyter Notebook IDE. To make the usage of code easier, the code has been section-wise. It is critical to set all the required paths correctly before running the code. 
 
 
-Results and Confusion Matrix
+Classification results: Synthetic and real modes
 ----------
 
 - **Synthetic data results**
