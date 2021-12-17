@@ -17,7 +17,7 @@ The synthetic phase of the developed model including synthetic data generation a
 Requirements
 ------------
 
-The code is written in Python 3.9 and uses Keras and TensorFlow. Recent versions of TensorFlow, sklearn, networkx, numpy, and scipy are required. All the required packages can be installed using the following command:
+The code is written in Python 3.9 and uses Keras and TensorFlow. All the required packages can be installed using the following command:
     
     $ pip install -r requirements.txt
 
