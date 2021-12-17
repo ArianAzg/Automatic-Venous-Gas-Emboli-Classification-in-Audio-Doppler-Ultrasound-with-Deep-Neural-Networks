@@ -64,6 +64,24 @@ The confusion matrix for synthetic data test set on trained mode is shown below:
 <img src="https://user-images.githubusercontent.com/48659018/146588454-0248ea2f-c00c-4bbf-a7b6-e4e80f75bb4b.png" width="400" align="center">
 </p>
 
+5-class classification accuracy:
+| Class No. | Accuracy |
+| --- | --- |
+| Grade 0 | 80% |
+| Grade 1 | 60% |
+| Grade 2 | 54% |
+| Grade 3 | 83% |
+| Grade 4 | 97% |
+| Average | 76% |
+
+
+Binary classification accuracy (low VGE grade (0 - 2) vs. high VGE grade (3 and 4): 
+| VGE Level | Accuracy |
+| --- | --- |
+| Low grade  | 98% |
+| High grade | 96% |
+| Average | 97% |
+
 
 - **Real data results**
 
