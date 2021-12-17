@@ -43,6 +43,11 @@ The real audio Doppler recordings vary in duration. The very first step required
 
 Similar to synthetic data organization, the orgnazied real data must be split into Training, Validation, Test sets accordingly. The MATLAB code **_Train_test_validation_division_real_data.m_** is written to perform this division. 
 
+- **Running the model**
+
+The Python code called _**AudioDopplerAutomaticVenousGasEmboliClassification.ipynb**_ is written in Jupyter Notebook IDE. To make the usage of code easier, the code has been section-wise. It is critical to set all the required paths correctly before running the code. 
+
+
 License and Citation
 ---------
 The codes are licensed under GPL-2.0 license. 
