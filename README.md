@@ -10,13 +10,15 @@ First, several hours of synthetic data were generated and collected according to
 The synthetic phase of the developed model including synthetic data generation and model training is depicted in the following figure: 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48659018/146570909-c05c1aaf-6cb1-4a66-98b8-9894f5ba0200.jpg" width="800" align="center">
+<img src="https://user-images.githubusercontent.com/48659018/146570909-c05c1aaf-6cb1-4a66-98b8-9894f5ba0200.jpg" width="800" align="center" alt>
+<h2 align="center">Synthetic data generation and training phases</h2>
 </p>
 
 The architecture of the designed model is shown below:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/146574698-3e53aad8-1193-4115-a111-f68fb82b7ecd.png" width="500" align="center">
+<h2 align="center">Designed 1-D network for VGE grade classfication</h2>
 </p>
 
 Requirements
@@ -35,6 +37,7 @@ The synthetic data after collection is prepared and organized in MATLAB. First, 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/146580139-01e66e9f-a2df-48c1-92a8-6b0ec2822790.jpg" width="600" align="center">
+<h2 align="center">Example of correct location path</h2>
 </p>
 
 - **Pre-processing steps for real data**
@@ -43,6 +46,7 @@ The real audio Doppler recordings vary in duration. The very first step required
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/146588159-c80407e9-fd7f-435a-bfeb-1401f46ecccf.png" width="500" align="center">
+<h2 align="center">Available real Doppler recordings data for fine-tuning</h2>
 </p>
 
 
