@@ -39,13 +39,33 @@ The synthetic data after collection is prepared and organized in MATLAB. First, 
 
 - **Pre-processing steps for real data**
 
-The real audio Doppler recordings vary in duration. The very first step required to take is to reshape the real data to make it compatible with model developed for synthetic data. Moreover, the sampling frequency needs to be set to 8 kHz to consider 5-seconds of audio signal as input. These pre-processing steps are written in MATLAB code called _**Real_data_organzier.m**_, where the correct location of real audio Doppler recordings must be set before running the code. 
+The real audio Doppler recordings vary in duration. The very first step required to take is to reshape the real data to make it compatible with model developed for synthetic data. Moreover, the sampling frequency needs to be set to 8 kHz to consider 5-seconds of audio signal as input. These pre-processing steps are written in MATLAB code called _**Real_data_organzier.m**_, where the correct location of real audio Doppler recordings must be set before running the code. To date, the available data for fine-tuning step is depicted in the following figure:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/48659018/146588159-c80407e9-fd7f-435a-bfeb-1401f46ecccf.png" width="600" align="center">
+</p>
+
 
 Similar to synthetic data organization, the orgnazied real data must be split into Training, Validation, Test sets accordingly. The MATLAB code **_Train_test_validation_division_real_data.m_** is written to perform this division. 
 
 - **Running the model**
 
 The Python code called _**AudioDopplerAutomaticVenousGasEmboliClassification.ipynb**_ is written in Jupyter Notebook IDE. To make the usage of code easier, the code has been section-wise. It is critical to set all the required paths correctly before running the code. 
+
+
+Results and Confusion Matrix
+----------
+
+- **Synthetic data results**
+
+The confusion matrix for synthetic data test set on trained mode is shown below: 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/48659018/146588454-0248ea2f-c00c-4bbf-a7b6-e4e80f75bb4b.png" width="400" align="center">
+</p>
+
+
+- **Real data results**
 
 
 License and Citation
