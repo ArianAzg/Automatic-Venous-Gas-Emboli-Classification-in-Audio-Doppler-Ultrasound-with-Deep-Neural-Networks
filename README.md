@@ -29,7 +29,7 @@ The code is written in Python 3.9 and uses Keras and TensorFlow. All the require
 How to run
 ----------
 
-- Synthetic data organization
+- **Synthetic data organization/division**
 
 The synthetic data after collection is prepared and organized in MATLAB. First, the model is trained on synthetic data. Before running the code, you are required to organize the dataset into training, validation, and test sets. This step can be done by the MATLAB code called **_Train_test_validation_division.m_**, where the data folder must be set correctly for this MATLAB code. An example of data folder structure is shown below:
 
@@ -37,6 +37,9 @@ The synthetic data after collection is prepared and organized in MATLAB. First, 
 <img src="https://user-images.githubusercontent.com/48659018/146580139-01e66e9f-a2df-48c1-92a8-6b0ec2822790.jpg" width="600" align="center">
 </p>
 
+- **Pre-processing steps for real data**
+
+The real audio Doppler recordings vary in duration. The very first step required to take is to reshape the real data to make it compatible with model developed for synthetic data. Moreover, the sampling frequency needs to be set to 8 kHz to consider 5-seconds of audio signal as input. These pre-processing steps are written in MATLAB code called _**Real_data_organzier.m**_, where the correct location of real audio Doppler recordings must be set before running the code. 
 
 
 
