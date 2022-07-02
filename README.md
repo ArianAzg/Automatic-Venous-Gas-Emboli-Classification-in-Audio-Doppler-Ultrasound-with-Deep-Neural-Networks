@@ -22,7 +22,7 @@ The architecture of the designed model is shown below:
 ="center">Designed 1-D network for VGE grade classfication</h2>
 </p>
 
-![Network_Architecture](https://user-images.githubusercontent.com/48659018/177012032-36d164cf-4423-46f9-8f89-a77a2607c2de.jpg)
+
 
 
 Requirements
