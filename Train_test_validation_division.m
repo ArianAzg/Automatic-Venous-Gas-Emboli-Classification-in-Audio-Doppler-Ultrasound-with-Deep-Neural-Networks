@@ -7,10 +7,11 @@ close all
 
 %% Reference
 
-%       D.Q. Le*, A. Azarang*, A. Hoang, L. Blogg, P.A. Dayton, R. Lance, M. Natoli, A. Gatrell, 
-%       R.E. Moon, P. Lindholm, and V. Papadopoulou, "Deep Learning-Based Venous Gas Emboli Grade 
+%       A. Azarang*, D.Q. Le*, A. Hoang, L. Blogg, P.A. Dayton, R. Lance, M. Natoli, A. Gatrell, 
+%       Frauke Tillmans, R.E. Moon, P. Lindholm, and V. Papadopoulou, "Deep Learning-Based Venous Gas Emboli Grade 
 %       Classification in Doppler Ultrasound Audio Recordings"
 
+%       Authors contributed equally
 %% Reading the original data folder parameters
 currentFolder = pwd;
 
