@@ -62,12 +62,6 @@ Similar to synthetic data organization, the orgnazied real data must be split in
 The Python code called _**AudioDopplerAutomaticVenousGasEmboliClassification.ipynb**_ is written in Jupyter Notebook IDE. To make the usage of code easier, the code has been section-wise. It is critical to set all the required paths correctly before running the code. 
 
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/48659018/177013646-0544bbfa-160c-4067-9a26-bc3707cb8ced.png" width="800" align="center">
-<h2 align="center">Learning curves of synthetic data</h2>
-</p>
-![image]()
-
 
 Classification results: Synthetic and real modes
 ----------
@@ -108,6 +102,12 @@ Binary classification accuracy (low VGE grade (0 - 2) vs. high VGE grade (3 and 
 
 
 - **Real data results**
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/48659018/177013646-0544bbfa-160c-4067-9a26-bc3707cb8ced.png" width="800" align="center">
+<h2 align="center">Learning curves of synthetic data</h2>
+</p>
+
 
 The confusion matrix for precordial region and subclavian veins are shown below (left: precordial, right: subclavian): 
 
