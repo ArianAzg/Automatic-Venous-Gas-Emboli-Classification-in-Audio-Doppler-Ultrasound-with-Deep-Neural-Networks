@@ -10,9 +10,19 @@ First, several hours of synthetic data were generated and collected according to
 The synthetic phase of the developed model including synthetic data generation and model training is depicted in the following figure: 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48659018/146570909-c05c1aaf-6cb1-4a66-98b8-9894f5ba0200.jpg" width="800" align="center" alt>
+<img src="https://user-images.githubusercontent.com/48659018/177014132-24964a92-bdbc-4bc9-9f6a-37c6ea8bed7c.png" width="800" align="center" alt>
 <h2 align="center">Synthetic data generation and training phases</h2>
 </p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/48659018/177013785-2b44aa23-75ea-48c1-942f-d8326f884867.png" width="800" align="center" alt>
+<h2 align="center">General view of deep model for VGE grading </h2>
+</p>
+
+
+
+
 
 The architecture of the designed model is shown below:
 
@@ -119,7 +129,7 @@ The confusion matrix for precordial region and subclavian veins are shown below 
 5-class classification accuracy:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48659018/177013576-d49cebce-35b5-42f1-9ffd-4a26d3aa04c8.png" width="800" height = "300" align="center">
+<img src="https://user-images.githubusercontent.com/48659018/177013576-d49cebce-35b5-42f1-9ffd-4a26d3aa04c8.png" width="800" height = "200" align="center">
 </p>
 
 
