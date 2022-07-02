@@ -18,8 +18,12 @@ The architecture of the designed model is shown below:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/146574698-3e53aad8-1193-4115-a111-f68fb82b7ecd.png" width="500" align="center">
-<h2 align="center">Designed 1-D network for VGE grade classfication</h2>
+<h2 align![Network_Architecture](https://user-images.githubusercontent.com/48659018/177012032-36d164cf-4423-46f9-8f89-a77a2607c2de.jpg)
+="center">Designed 1-D network for VGE grade classfication</h2>
 </p>
+
+
+
 
 Requirements
 ------------
