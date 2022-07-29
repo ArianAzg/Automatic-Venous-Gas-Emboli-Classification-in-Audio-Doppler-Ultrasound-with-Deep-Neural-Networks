@@ -16,7 +16,7 @@ The synthetic phase of the developed model including synthetic data generation a
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48659018/177013785-2b44aa23-75ea-48c1-942f-d8326f884867.png" width="800" align="center" alt>
+<img src="https://user-images.githubusercontent.com/48659018/181655493-beaa09fd-60d1-46a8-8d93-a378c237da94.jpg" width="800" align="center" alt>
 <h2 align="center">General view of deep model for VGE grading </h2>
 </p>
 
@@ -26,9 +26,8 @@ The synthetic phase of the developed model including synthetic data generation a
 
 The architecture of the designed model is shown below:
 
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48659018/177012032-36d164cf-4423-46f9-8f89-a77a2607c2de.jpg" width="800" align="center" alt>
+<img src="https://user-images.githubusercontent.com/48659018/181655731-ea434845-26d9-4c6b-a7af-8ddfa8d8f706.jpg" width="800" align="center" alt>
 <h2 align="center">Designed 1-D network for VGE grade classfication</h2>
 </p>
 
@@ -95,20 +94,20 @@ The confusion matrix for synthetic data test set on trained mode is shown below:
 5-class classification accuracy:
 | VGE Grade | Ordinal Accuracy |
 | --- | --- |
-| Grade 0 | 80% |
-| Grade 1 | 60% |
-| Grade 2 | 54% |
-| Grade 3 | 83% |
-| Grade 4 | 97% |
-| Average | 76% |
+| Grade 0 | 97.8% |
+| Grade 1 | 91.0% |
+| Grade 2 | 93.6% |
+| Grade 3 | 99.6% |
+| Grade 4 | 99.4% |
+| Average | 96.4% |
 
 
 Binary classification accuracy (low VGE grade (0 - 2) vs. high VGE grade (3 and 4): 
 | VGE Level | Accuracy |
 | --- | --- |
-| Low grade  | 98% |
-| High grade | 96% |
-| Average | 97% |
+| Low grade  | 99.6% |
+| High grade | 99.0% |
+| Average | 99.2% |
 
 
 - **Real data results**
@@ -128,20 +127,12 @@ The confusion matrix for precordial region and subclavian veins are shown below 
 
 5-class classification accuracy:
 
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48659018/177013576-d49cebce-35b5-42f1-9ffd-4a26d3aa04c8.png" width="800" height = "200" align="center">
+<img src="https://user-images.githubusercontent.com/48659018/181656173-23c4628c-0804-4503-8798-6840594fceb3.jpg" width="800" height = "700" align="center">
 </p>
 
 
-
-
-
-Binary classification accuracy (low VGE grade (0 - 2) vs. high VGE grade (3 and 4): 
-| VGE Level | Accuracy |
-| --- | --- |
-| Low grade  | 92.7% |
-| High grade | 83.3% |
-| Average | 88% |
 
 
 License and Citation
