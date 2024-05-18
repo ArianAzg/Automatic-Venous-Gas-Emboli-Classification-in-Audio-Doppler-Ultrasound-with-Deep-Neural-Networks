@@ -165,6 +165,6 @@ The codes are licensed under GPL-2.0 license.
 
 For any utilization of the code content of this repository, the following paper needs to be cited by the user: 
 
-> A. Azarang*, D.Q. Le*, A. Hoang, L. Blogg, P.A. Dayton, R. Lance, M. Natoli, A. Gatrell, Frauke Tillmans, R.E. Moon, P. Lindholm, and V. Papadopoulou, "Deep Learning-Based Venous Gas Emboli Grade Classification in Doppler Ultrasound Audio Recordings", IEEE Transactions on Biomedical Engineering, in press.
+> 1. A. Azarang*, D.Q. Le*, A. Hoang, L. Blogg, P.A. Dayton, R. Lance, M. Natoli, A. Gatrell, Frauke Tillmans, R.E. Moon, P. Lindholm, and V. Papadopoulou, "Deep Learning-Based Venous Gas Emboli Grade Classification in Doppler Ultrasound Audio Recordings", IEEE Transactions on Biomedical Engineering, in press.
 
 ***Authors contributed equally**
