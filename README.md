@@ -1,4 +1,4 @@
-# Automatic-Venous-Gas-Emboli-Classification-with-Deep-Neural-Networks
+# Automatic Venous Gas Emboli Classification with Deep Neural Networks
 
 </h1>
 <h1 align="center">
