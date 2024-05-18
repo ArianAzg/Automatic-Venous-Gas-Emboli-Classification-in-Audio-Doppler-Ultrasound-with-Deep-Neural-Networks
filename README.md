@@ -150,11 +150,12 @@ The confusion matrix for precordial region and subclavian veins are shown below 
 
 5-class classification accuracy:
 
-<!--
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48659018/181656173-23c4628c-0804-4503-8798-6840594fceb3.jpg" width="800" height = "700" align="center">
+<img src="https://user-images.githubusercontent.com/48659018/181656173-23c4628c-0804-4503-8798-6840594fceb3.jpg" width="700" height = "600" align="center">
+    <br>
+    <em>Figure reprinted with permission [1].</em>
 </p>
--->
 
 
 
