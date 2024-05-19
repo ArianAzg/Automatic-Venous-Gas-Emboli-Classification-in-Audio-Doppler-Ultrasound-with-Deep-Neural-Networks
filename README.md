@@ -48,12 +48,12 @@ The synthetic phase of the developed model including synthetic data generation a
 
 The architecture of the designed model is shown below:
 
-<!--
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48659018/181655731-ea434845-26d9-4c6b-a7af-8ddfa8d8f706.jpg" width="800" align="center" alt>
 <h2 align="center">Designed 1-D network for VGE grade classfication</h2>
 </p>
--->
+
 
 
 
