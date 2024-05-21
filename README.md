@@ -61,7 +61,11 @@ The architecture of the designed model is shown below:
 Requirements
 ------------
 
-The Python code is written in `Python >= 3.9` and uses Keras and TensorFlow. The developed MATLAB codes are based on `R2021b` version. All the required Python packages can be installed using the following command:
+The software requires `Python >= 3.9` for best performance. Create an environment in your `Anaconda` using the following command: 
+
+    conda create --name VGE_Doppler python==3.9
+
+You need to install Keras and Tensorflow properly for training/inference on GPU. The developed MATLAB codes are based on `R2021b` version. All the required Python packages can be installed using the following command:
     
     $ pip install -r requirements.txt
 
