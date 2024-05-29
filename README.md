@@ -5,16 +5,19 @@
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Language-Python 3.10-informational?style=flat&logo=Python&color=2bbc8a">
   </a>
+    <a href="https://github.com/ankitwasankar/mftool-java">
+    <img src="https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=numpy&color=DC120C">
+  </a>
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&color=FAC205">
   </a>
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&color=2bbc8a">
   </a>
+
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&color=DC143C">
   </a>
-
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Operating System-Windows 10-informational?style=flat&logo=Windows10&color=E6DAA6">
   </a>
