@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&color=FAC205">
   </a>
   <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&color=2bbc8a">
+    <img src="https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&color=1d829e">
   </a>
 
   <a href="https://github.com/ankitwasankar/mftool-java">
